@@ -134,7 +134,8 @@ Performance tracking across time
 
 Screenshots / Demos
 Show what the dashboard looks like.
-Example:- ![Alt text](https://github.com/DivTamrakar/Instagram-Facebook-Dashboard/blob/main/instagram-facebook-Dashboard.png)
+Example:- 
+![Alt text for the screenshot](https://github.com/DivTamrakar/Instagram-Facebook-Dashboard/blob/main/Screenshot-instagram-facebook-Dashboard.png)
 ![Alt text for the screenshot](https://github.com/DivTamrakar/Instagram-Facebook-Dashboard/blob/main/Insta.png)
 ![Alt text for the screenshot](https://github.com/DivTamrakar/Instagram-Facebook-Dashboard/blob/main/FB.png)
 
