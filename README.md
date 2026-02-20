@@ -125,12 +125,15 @@ Better campaign evaluation
 
 Improved content planning
 
+Audience targeting optimization
+
+Performance tracking across time
+
 
 
 Screenshots / Demos
 Show what the dashboard looks like.
-Example:- ![Alt text]()
+Example:- ![Alt text](https://github.com/DivTamrakar/Instagram-Facebook-Dashboard/blob/main/instagram-facebook-Dashboard.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Instagram-Facebook-Dashboard/blob/main/Insta.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Instagram-Facebook-Dashboard/blob/main/FB.png)
 
-Audience targeting optimization
-
-Performance tracking across time
